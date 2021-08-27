@@ -15,8 +15,8 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- very cool
-- very chill
+- very cool class
+- very chill course leads
 
 1. Numbered
 2. List
